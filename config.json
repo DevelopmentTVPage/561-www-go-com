@@ -1,0 +1,15 @@
+{
+    "title": "lkjlkh",
+    "baseURL": "https:\/\/www.go.com\/lkjh",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759123",
+        "subfolder": "\/lkjh",
+        "firstpartycookies": true,
+        "cookiedomain": "go.com"
+    }
+}
